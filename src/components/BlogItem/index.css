@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.image-custom {
+  height: 120px;
+  width: 200px;
+  margin-right: 20px;
+}
+.avatar-custom {
+  height: 20px;
+  width: 20px;
+  border-radius: 20px;
+}
+.blogs-container {
+  display: flex;
+  align-items: center;
+  box-shadow: 2px 2px 2px 2px #8e8e8e;
+  padding: 10px;
+  margin-top: 10px;
+}
+.author-container {
+  display: flex;
+  align-items: center;
+}

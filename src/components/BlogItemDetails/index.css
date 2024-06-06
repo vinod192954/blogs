@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+.author-image {
+  height: 20px;
+  width: 20px;
+  border-radius: 20px;
+}
+.blog-image {
+  height: 380px;
+  width: 800px;
+}
+.blog-container {
+  padding: 20px;
+  margin-left: 20px;
+}
+.author-container {
+  display: flex;
+  align-items: center;
+}
+.heading {
+  text-align: center;
+}
